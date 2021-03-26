@@ -15,13 +15,13 @@ contributors:
 
 ## Screenshots
 <p align="center">
-  <img src=".idea/1.jpg" width="350" title="Repository">
+  <img src=".idea/1.png" width="350" title="Repository">
   </p>
   <p align="center">
-  <img src=".idea/2.jpg" width="350" title="Login">
+  <img src=".idea/2.png" width="350" title="Login">
 </p>
 <p align="center">
-  <img src=".idea/3.jpg" width="350" title="Upload">
+  <img src=".idea/3.png" width="350" title="Upload">
   </p>
 
  
