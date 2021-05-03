@@ -1,4 +1,4 @@
-# Decimal to Binaary and Hexadecimal Convertor
+# Decimal to Binary and Hexadecimal Convertor
 
 ## Features
 - It pops as a small box on a screen so other apps and sites can easily be used in computer using the converter at the same time
